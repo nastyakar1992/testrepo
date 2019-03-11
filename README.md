@@ -1,2 +1,3 @@
 # testrepo
 new test
+<phpinfo>
